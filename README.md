@@ -8,7 +8,7 @@ Twenty snippets for LaTeX cover my most frequent needs.
 
 Sapling is a grammar-checker like language-tool and Grammarly.
 It is being developed at Stanford.
-Sapling is also available as an add-in on MS Word and an extension for ![Google Chrome and Firefox](https://saplingai.zendesk.com/hc/en-us/articles/360041603813-Installing-Sapling).
+Sapling is also available as an add-in on MS Word and an extension for [Google Chrome and Firefox](https://saplingai.zendesk.com/hc/en-us/articles/360041603813-Installing-Sapling).
 You may have to turn Sapling on for specific webpage via the Google Extension manager that is shaped like a puzzle piece.
 
 The Sapling snippets have shortcuts rather than tab-triggers.

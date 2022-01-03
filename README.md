@@ -1,17 +1,18 @@
 # LaTeX snippets for textareas in webpages
 
-Sapling is a grammar-checker like language-tool and Grammarly.
-It is being developed at Stanford.
-It works as an add-in on MS Word and an extension for Google Chrome and Firefox \footnote{\url{https://saplingai.zendesk.com/hc/en-us/articles/360041603813-Installing-Sapling}}.
-Sapling can work in Overleaf and 750words, but you may have to turn it on via the Google Extension manager that is shaped like a puzzle piece.
 
-I miss the ability to use snippets in 750words and Overleaf.
+I miss the ability to use snippets of LaTeX code in the textareas of 750words, Overleaf, and other websites.
 The problem is now solved via snippets in Sapling.
 You can have up to 20 snippets in the free version.
 Twenty snippets for LaTeX cover my most frequent needs.
 
-The snippets have shortcuts rather than tab-triggers.
-Just type the name of the shortcut, and the code is inserted.
+Sapling is a grammar-checker like language-tool and Grammarly.
+It is being developed at Stanford.
+Sapling is also available as an add-in on MS Word and an extension for ![Google Chrome and Firefox](https://saplingai.zendesk.com/hc/en-us/articles/360041603813-Installing-Sapling).
+You may have to turn Sapling on for specific webpage via the Google Extension manager that is shaped like a puzzle piece.
+
+The Sapling snippets have shortcuts rather than tab-triggers.
+Type the name of the shortcut, and the code is inserted.
 There is no need to enter tab.
 
 However, a shortcut like "ch" for a chapter template is too frequent of a letter sequence.

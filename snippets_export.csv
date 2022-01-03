@@ -1,0 +1,120 @@
+title,shortcut,snippet
+"date","ztoday","{{ date %Y-%m-%d }}"
+"Code listing with line numbering","codeln","% Define code environment in your preamble to enable use of caption.  
+% \newenvironment{code}{\captionsetup{type=listing}}{}  
+% Line numbering on and aligned with left margin.   
+\begin{code}{}  
+\index{openCV!measureSizes}  
+\label{lst:measureSize}  
+\caption{Contents of measureSizes.py.}  
+\begin{minted}[frame=lines,framerule=2pt,linenos=true,xleftmargin=\parindent,breaklines=True]{python}  
+import me  
+\end{minted}  
+\end{code}"
+"Array of aligned equations using split","zsplit","% Define a equ enivironment to make equations into floats.  
+% Floats can have captions.    
+% Need to load the caption package and add the following line to the preamble.  
+%\DeclareCaptionType{equ}[][]    
+\begin{equ}  
+\begin{equation}\label{eq:XXXXX}  
+\begin{split}  
+A &= B  
+&= B  
+\end{split}  
+\end{equation}  
+\caption{Schrodinger's time-dependent wave equation.}   
+\end{equ}"
+"table with 4 rows and 2 columns","tab4x2","% Table template  
+% needs \usepackage{booktabs}  
+\begin{table}[htbp]  
+\caption{This is a test.}  
+\label{two columns}  
+\begin{center}  
+  \begin{tabular}{ll}  
+%  \begin{tabular}{l p{12cm}} % use p when you have to control the column width  
+    \toprule  
+    LongHeader1 & MediumHeaderX \\\   
+    \multicolumn{1}{c}{(unit1)} &   
+    \multicolumn{1}{c}{(unit2)} \\\ \midrule  
+    Item1  & X1   \\\   
+    Item2  & X2   \\\   
+    Item1  & X1   \\\  
+    Item2  & X2   \\\  
+\bottomrule  
+  \end{tabular}  
+\end{center}  
+\end{table}"
+"six-item itemized list","i6","\subsection{To Be Done}  
+\begin{itemize}  
+\item   
+\item  
+\item   
+\item  
+\item   
+\item   
+\end{itemize}"
+"Mintinline","mintn","\mintinline{bash}{insert code here}"
+"figure","zfig","% Figure template  
+\newpage{}  
+\label{fig:workbookCell}  
+\begin{figure}[h]  
+%\centering  
+\includegraphics[scale=0.2]{RSMCellRecipe}  
+\caption{Cell for one well from the \emph{BigCrystalsFast} \emph{Excel} Workbook.}  
+\end{figure}"
+"six-item enumerated list","e6","\subsection{To Be Done}  
+\begin{enumerate}  
+\item   
+\item   
+\item   
+\item   
+\item   
+\item   
+\end{enumerate}"
+"url in footnote","zfurl","\footnote{\url{[[replace me]]}}"
+"commented section","zcomment","\iffalse  
+Edit me.  
+\fi"
+"Today's date in month day, year format.","mtoday","{{date %B %-d, %Yr }}"
+"Equation environment as a float with caption","equ","% Define a equ enivironment to make equations into floats.  
+% Floats can have captions.    
+% Need to load the caption package and add the following line to the preamble.  
+%\DeclareCaptionType{equ}[][]    
+\begin{equ}  
+\begin{equation}   
+i \hbar \frac{d}{d t}|\Psi(t)\rangle=\hat{H}|\Psi(t)\rangle  
+\end{equation}  
+\caption{Schrodinger's time-dependent wave equation.}   
+\end{equ}"
+"subsection and index","subi","\subsection{change me}  
+\index{change me}"
+"code with no line numbering","coden","% No line numbering  
+\begin{code}{}  
+\label{lst:FindByte}  
+\index{copying and pasting code!lost bytes}  
+\caption{Python script to find lost bytes.}  
+\begin{minted}[frame=lines,framerule=2pt]{python}  
+import me  
+\end{minted}  
+\end{code}"
+"subsubsection and index","ssubi","\subsubsection{change me}  
+\index{change me}"
+"subsubsection","ssubs","\subsubsection{change me}"
+"Array of equations with array.","zarray","% Define a equ enivironment to make equations into floats.  
+% Floats can have captions.    
+% Need to load the caption package and add the following line to the preamble.  
+%\DeclareCaptionType{equ}[][]    
+\begin{equ}  
+\begin{equation}\label{eq:XXXXX}  
+\begin{array}  
+A &= B  
+&= B  
+\end{array}  
+\end{equation}  
+\caption{Schrodinger's time-dependent wave equation.}   
+\end{equ}"
+"chapter heading","zch","\chapter{Template}  
+\index{Template}  
+\label{ch:template} % Always give a unique label  
+\epigraph{In God we trust. All others must bring data.}{W. Edwards Deming}"
+"subsection","subs","\subsection{[[change me]]}"

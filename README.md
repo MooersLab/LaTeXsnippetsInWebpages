@@ -20,17 +20,17 @@ This leads to unwanted insertions of snippets.
 The work around is to rename the above snippet "zch".
 The zch letter sequence is not frequent.
 
-<p align="center"><img src="images/backslash.png"></p>
+<p align="center"><img src="images/backslash.png" style="width: 55vw; min-width: 330px;"></p>
 
 Entering a blackslash will bring up a menu that provides access to your list of snippets.
 Backslashes are used a lot in LaTeX, so I recommend changing the short to something else like a forward slash, which is rarely used in LaTeX.
 
-<p align="center"><img src="images/snippetEditorSingle.png"></p>
+<p align="center"><img src="images/snippetEditorSingle.png" style="width: 55vw; min-width: 330px;"></p>
 
 The snippets can be interactively entered in a menu in Google Chrome like the one shown above.
 You have to use shift-enter to insert a new line character in multi-line snippets.
 
-<p align="center"><img src="images/snippetsEditor.png"></p>
+<p align="center"><img src="images/snippetsEditor.png" style="width: 55vw; min-width: 330px;"></p>
 
 You can also access the snippet library via the menu for your Sapling account.
 After clicking on **Snippets** in the left column, a table like the one above will appear.

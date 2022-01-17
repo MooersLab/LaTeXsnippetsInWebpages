@@ -1,5 +1,8 @@
 # LaTeX snippets for text areas in webpages
 
+![Version](https://img.shields.io/static/v1?label=LaTeXsnippetsInWebpages&message=0.1&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 
 I miss the ability to use snippets of LaTeX code in the text areas of 750words, Overleaf, and other websites. The problem is now solved via snippets in Sapling. You can have up to 20 snippets in the free version. Twenty snippets for LaTeX meet my most frequent needs.
 

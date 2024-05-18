@@ -1,6 +1,6 @@
 # LaTeX snippets for text areas in webpages
 
-![Version](https://img.shields.io/static/v1?label=LaTeXsnippetsInWebpages&message=0.1&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=LaTeXsnippetsInWebpages&message=0.2&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -38,3 +38,14 @@ I am having trouble with the double insertion of multi-line snippets on Overleaf
 
 The Sapling snippets support dates of any format. For example, {{ date %Y-%m-%d }} returns the current date in Year-Month-Day format.
 See the Sapling documentation for more examples of automated parameter entry.
+
+## Update history
+
+|Version      | Changes                                                                                                                                    | Date                 |
+|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
+| Version 0.3 |  Added funding and update table                                                                                                            | 2024 May 18           |
+
+## Funding
+- NIH: R01 CA242845, R01 AI088011
+- NIH: P30 CA225520 (PI: R. Mannel); P20GM103640 and P30GM145423 (PI: A. West)
+

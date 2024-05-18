@@ -12,7 +12,7 @@ Twenty snippets for LaTeX meet my most frequent needs.
 ## Alternate solution
 
 I have not been using Sapling and this approach recently.
-Instead, I use GhostText to edit text areas in a leading text editor, or I use voice-triggered snippets via Voice In Plus, Serenade, or Talon Voice.
+Instead, I use GhostText to edit text areas in a leading text editor ([see video](https://emacsconf.org/2022/talks/jupyter/)), or I use voice-triggered snippets via [voice computing](https://github.com/MooersLab#voice-computing).
 
 ## Solution with Sapling
 Sapling is a grammar-checker like Language Tool and Grammarly. 
